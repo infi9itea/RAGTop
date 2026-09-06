@@ -15,4 +15,5 @@ Data collection → Spark processing → chunking and embeddings → FAISS retri
 * `scripts/` — supporting utilities
 * `references/` — source references
 
+
 The repository contains both the data artifacts and intermediate results required to reproduce and inspect the retrieval experiments.
